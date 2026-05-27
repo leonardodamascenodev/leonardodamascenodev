@@ -10,7 +10,7 @@ jobs:
     name: Jobs to update datas
     runs-on: ubuntu-latest
     steps:
-      # Gera a animação da cobrinha
+      # Gera a animação da cobrinha (Versão v3 mais atual)
       - name: generate-github-contribution-grid-snake
         uses: Platane/snk@v3
         with:
@@ -21,9 +21,9 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # Envia os arquivos gerados para a branch 'output'
+      # Envia os arquivos gerados para a branch 'output' (Atualizado para v4)
       - name: push github-contribution-grid-snake to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
