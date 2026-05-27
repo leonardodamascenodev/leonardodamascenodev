@@ -1,6 +1,8 @@
-
-
 # Olá, eu sou o Leo! 👋
+
+<tag>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardodamascenodev&layout=compact&theme=dark&hide_border=true&bg_color=00000000" width="320" alt="Linguagens mais usadas" />
+</tag>
 
 ### 🚀 Um desenvolvedor em constante evolução
 
@@ -10,33 +12,36 @@ Sou um apaixonado por tecnologia que acredita que o aprendizado nunca para. Atua
 - 🌱 Estudando **profundamente**.
 - 👯 Aberto a colaborações em projetos open-source iniciantes.
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-CSS" height="40" width="40" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png">
+---
+
+### 🛠️ Tecnologias & Ferramentas
+
+<div style="display: inline-block">
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="C++" height="35" width="35" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png">
 </div>
 
-##
+---
+
+### 🐍 Jogo da Cobrinha
 
 ![GitHub Contribution Grid Snake](https://raw.githubusercontent.com/leonardodamascenodev/leonardodamascenodev/output/github-contribution-grid-snake-dark.svg)
 
-<div align="left">
-  <img src="https://img.shields.io/badge/Contribuições%20Devoradas%20pela%20Cobrinha-🔥-orange?style=for-the-badge&logo=github" alt="Cobrinha">
-  
-  <img src="https://komarev.com/ghpvc/?username=leonardodamascenodev&color=4af626&style=for-the-badge&label=Total%20de%20Visualizações" alt="Visualizações">
-</div>
+* **Contribuições devoradas pela cobrinha:** Carregando estatísticas... 🔄
+---
 
-##
+### 🤝 Conecte-se comigo
+
+<br />
 
 <div> 
-  <a href="https://www.instagram.com/leoodamasceno_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:leonardocorreiadamasceno@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/leonardo-correia-damasceno-aa56062aa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/leonardo-correia-damasceno-aa56062aa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> 
+  <a href="https://www.instagram.com/leoodamasceno_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a> 
+  <a href="mailto:leonardocorreiadamasceno@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 </div>
 
-
-
-
+<br />
