@@ -23,11 +23,9 @@ Sou um apaixonado por tecnologia que acredita que o aprendizado nunca para. Atua
 ![GitHub Contribution Grid Snake](https://raw.githubusercontent.com/leonardodamascenodev/leonardodamascenodev/output/github-contribution-grid-snake-dark.svg)
 
 <div align="left">
-  <img src="https://img.shields.io/badge/Contribuições%20Devoradas%20pela%20Cobrinha-🔥-orange?style=for-the-badge&logo=github" alt="Contribuições">
+  <img src="https://img.shields.io/badge/Contribuições%20Devoradas%20pela%20Cobrinha-🔥-orange?style=for-the-badge&logo=github" alt="Cobrinha">
   
-  <a href="https://github.com/leonardodamascenodev">
-    <img src="https://github-readme-stats.vercel.app/api?username=leonardodamascenodev&hide_title=true&hide_rank=true&show_icons=false&include_all_commits=true&count_private=true&theme=dark&custom_title=false&disable_update_card=true&hide_border=true&bg_color=00000000&text_color=4af626&icon_color=4af626" alt="Total de Contribuições">
-  </a>
+  <img src="https://img.shields.io/github/commits-per-year/leonardodamascenodev/leonardodamascenodev?setting=total&style=for-the-badge&color=4af626&label=Commits%20Realizados&logo=git" alt="Total de Commits">
 </div>
 
 ##
