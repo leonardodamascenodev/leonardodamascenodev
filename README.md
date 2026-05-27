@@ -1,4 +1,4 @@
-![GitHub Contribution Grid Snake](https://raw.githubusercontent.com/leonardodamascenodev/leonardodamascenodev/output/github-contribution-grid-snake-dark.svg)
+
 
 # Olá, eu sou o Leo! 👋
 
@@ -17,6 +17,10 @@ Sou um apaixonado por tecnologia que acredita que o aprendizado nunca para. Atua
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-CSS" height="40" width="40" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png">
 </div>
+
+##
+
+![GitHub Contribution Grid Snake](https://raw.githubusercontent.com/leonardodamascenodev/leonardodamascenodev/output/github-contribution-grid-snake-dark.svg)
 
 ##
 
