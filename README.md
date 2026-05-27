@@ -1,4 +1,4 @@
-![GitHub Contribution Grid Snake](https://raw.githubusercontent.com/leonardodamascenodev/leonardodamascenodev/output/github-contribution-grid-snake.svg)
+![GitHub Contribution Grid Snake](https://raw.githubusercontent.com/leonardodamascenodev/leonardodamascenodev/output/github-contribution-grid-snake-dark.svg)
 
 # Olá, eu sou o Leo! 👋
 
