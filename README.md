@@ -1,3 +1,5 @@
+![GitHub Contribution Grid Snake](https://raw.githubusercontent.com/leonardodamascenodev/leonardodamascenodev/output/github-contribution-grid-snake.svg)
+
 # Olá, eu sou o Leo! 👋
 
 ### 🚀 Um desenvolvedor em constante evolução
@@ -25,8 +27,6 @@ Sou um apaixonado por tecnologia que acredita que o aprendizado nunca para. Atua
   <a href="https://www.linkedin.com/in/leonardo-correia-damasceno-aa56062aa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-## 🐍 Jogo da Cobrinha
 
-![GitHub Contribution Grid Snake](https://raw.githubusercontent.com/leonardodamascenodev/leonardodamascenodev/output/github-contribution-grid-snake.svg)
 
 
