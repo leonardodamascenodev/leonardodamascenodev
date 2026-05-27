@@ -25,7 +25,7 @@ Sou um apaixonado por tecnologia que acredita que o aprendizado nunca para. Atua
 <div align="left">
   <img src="https://img.shields.io/badge/Contribuições%20Devoradas%20pela%20Cobrinha-🔥-orange?style=for-the-badge&logo=github" alt="Cobrinha">
   
-  <img src="https://img.shields.io/github/commits-per-year/leonardodamascenodev/leonardodamascenodev?setting=total&style=for-the-badge&color=4af626&label=Commits%20Realizados&logo=git" alt="Total de Commits">
+  <img src="https://komarev.com/ghpvc/?username=leonardodamascenodev&color=4af626&style=for-the-badge&label=Total%20de%20Visualizações" alt="Visualizações">
 </div>
 
 ##
