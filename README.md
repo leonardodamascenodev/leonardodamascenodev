@@ -22,11 +22,10 @@ Sou um apaixonado por tecnologia que acredita que o aprendizado nunca para. Atua
 
 ---
 
-### 🐍 Jogo da Cobrinha
+### 57 Contribuições feitas esse ano!
 
 ![GitHub Contribution Grid Snake](https://raw.githubusercontent.com/leonardodamascenodev/leonardodamascenodev/output/github-contribution-grid-snake-dark.svg)
 
-* **Contribuições devoradas pela cobrinha:** Carregando estatísticas... 🔄
 ---
 
 ### 🤝 Conecte-se comigo <div> 
