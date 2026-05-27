@@ -22,11 +22,11 @@ Sou um apaixonado por tecnologia que acredita que o aprendizado nunca para. Atua
 
 ![GitHub Contribution Grid Snake](https://raw.githubusercontent.com/leonardodamascenodev/leonardodamascenodev/output/github-contribution-grid-snake-dark.svg)
 
-<div align="left">
-  <img src="https://img.shields.io/badge/Contribuições%20Devoradas%20pela%20Cobrinha-🔥-orange?style=for-the-badge&logo=github" alt="Cobrinha">
-  
-  <img src="https://komarev.com/ghpvc/?username=leonardodamascenodev&color=4af626&style=for-the-badge&label=Total%20de%20Visualizações" alt="Visualizações">
-</div>
+<br />
+
+### 🐍 Estatísticas da Cobrinha
+
+✨ **Contribuições devoradas até agora:** ![Total Commits](https://img.shields.io/github/search/leonardodamascenodev?q=author%3Aleonardodamascenodev&label=%20&color=21262d&style=flat-square)
 
 ##
 
