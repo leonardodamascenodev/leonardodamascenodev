@@ -1,25 +1,36 @@
 name: Generate Datas
 
 on:
-  schedule: # Executa automaticamente a cada 12 horas
+  schedule:
     - cron: "0 */12 * * *"
-  workflow_dispatch: # Permite rodar manualmente a qualquer momento
+  workflow_dispatch:
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
 jobs:
   build:
     name: Jobs to update datas
     runs-on: ubuntu-latest
     steps:
-      # Gera a animação da cobrinha (Versão v3 mais atual)
+      # Gera a animação da cobrinha
       - name: generate-github-contribution-grid-snake
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg?palette=github-light
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # Conta os commits reais e injeta no seu README automaticamente
+      - name: Update README dynamic total commits
+        uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          COMMIT_MSG: "Bot da Cobrinha: Atualizando estatísticas [skip ci]"
+          MAX_LINES: 1
 
       # Envia os arquivos gerados para a branch 'output'
       - name: push github-contribution-grid-snake to the output branch
@@ -27,6 +38,6 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
-          keep_history: false # <--- ADICIONE ESTA LINHA AQUI
+          keep_history: false
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
