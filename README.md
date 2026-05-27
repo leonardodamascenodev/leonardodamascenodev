@@ -1,9 +1,5 @@
 # Olá, eu sou o Leo! 👋
 
-<tag>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardodamascenodev&layout=compact&theme=dark&hide_border=true&bg_color=00000000" width="320" alt="Linguagens mais usadas" />
-</tag>
-
 ### 🚀 Um desenvolvedor em constante evolução
 
 Sou um apaixonado por tecnologia que acredita que o aprendizado nunca para. Atualmente, estou focado em aprimorar minhas habilidades em **HTML, CSS e Javascript** e transformando café em código (e bugs em aprendizado).
