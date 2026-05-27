@@ -21,11 +21,8 @@ Sou um apaixonado por tecnologia que acredita que o aprendizado nunca para. Atua
 </div>
 
 ---
-
 ### 57 Contribuições feitas esse ano!
-
 ![GitHub Contribution Grid Snake](https://raw.githubusercontent.com/leonardodamascenodev/leonardodamascenodev/output/github-contribution-grid-snake-dark.svg)
-
 ---
 
 ### 🤝 Conecte-se comigo <div> 
