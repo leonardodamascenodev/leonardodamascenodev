@@ -22,6 +22,8 @@ Sou um apaixonado por tecnologia que acredita que o aprendizado nunca para. Atua
 
 ![GitHub Contribution Grid Snake](https://raw.githubusercontent.com/leonardodamascenodev/leonardodamascenodev/output/github-contribution-grid-snake-dark.svg)
 
+### 🐍 Status do Jogo
+
 * **Contribuições devoradas pela cobrinha:** Carregando... 🔄
 
 ##
