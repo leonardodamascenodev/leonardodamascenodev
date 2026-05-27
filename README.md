@@ -22,11 +22,7 @@ Sou um apaixonado por tecnologia que acredita que o aprendizado nunca para. Atua
 
 ![GitHub Contribution Grid Snake](https://raw.githubusercontent.com/leonardodamascenodev/leonardodamascenodev/output/github-contribution-grid-snake-dark.svg)
 
-<br />
-
-### 🐍 Estatísticas da Cobrinha
-
-✨ **Contribuições devoradas até agora:** ![Total Commits](https://img.shields.io/github/search/leonardodamascenodev?q=author%3Aleonardodamascenodev&label=%20&color=21262d&style=flat-square)
+* **Contribuições devoradas pela cobrinha:** Carregando... 🔄
 
 ##
 
