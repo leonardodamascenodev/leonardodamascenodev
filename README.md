@@ -10,6 +10,24 @@ Sou um apaixonado por tecnologia que acredita que o aprendizado nunca para. Atua
 
 ---
 
+### ⚡ Projeto em Destaque
+
+<div align="center">
+
+  ## 🌌 [OpenGemini](https://github.com/leonardodamascenodev/opengemini)
+  
+  [![GitHub Repo](https://img.shields.io/badge/GitHub-OpenGemini-181717?style=for-the-badge&logo=github)](https://github.com/leonardodamascenodev/opengemini)
+  [![Stars](https://img.shields.io/github/stars/leonardodamascenodev/opengemini?style=for-the-badge&color=yellow)](https://github.com/leonardodamascenodev/opengemini/stargazers)
+  [![Forks](https://img.shields.io/github/forks/leonardodamascenodev/opengemini?style=for-the-badge&color=blue)](https://github.com/leonardodamascenodev/opengemini/network/members)
+
+  > *Sua aplicação/interface focada em explorar o potencial da API do Gemini.*
+
+  👉 **[Ver código fonte e documentação →](https://github.com/leonardodamascenodev/opengemini)**
+
+</div>
+
+---
+
 ### 🛠️ Tecnologias & Ferramentas
 
 <div style="display: inline-block">
@@ -18,19 +36,20 @@ Sou um apaixonado por tecnologia que acredita que o aprendizado nunca para. Atua
   <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="C++" height="35" width="35" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png">
-  <img align="center" alt="C++" height="35" width="35" src="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/3840px-Python-logo-notext.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail">
+  <img align="center" alt="Python" height="35" width="35" src="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/3840px-Python-logo-notext.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail">
 </div>
 
 ---
+
 ### 57 Contribuições feitas esse ano!
 ![GitHub Contribution Grid Snake](https://raw.githubusercontent.com/leonardodamascenodev/leonardodamascenodev/output/github-contribution-grid-snake-dark.svg)
+
 ---
 
-### 🤝 Conecte-se comigo <div> 
+### 🤝 Conecte-se comigo
+<div> 
   <a href="https://www.linkedin.com/in/leonardo-correia-damasceno-aa56062aa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> 
   <a href="https://www.instagram.com/leoodamasceno_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
   <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a> 
   <a href="mailto:leonardocorreiadamasceno@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 </div>
-
-<br />
