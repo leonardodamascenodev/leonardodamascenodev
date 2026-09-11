@@ -10,24 +10,6 @@ Sou um apaixonado por tecnologia que acredita que o aprendizado nunca para. Atua
 
 ---
 
-### ⚡ Projeto em Destaque
-
-<div align="center">
-
-  ## 🌌 [OpenGemini](https://github.com/leonardodamascenodev/opengemini)
-  
-  [![GitHub Repo](https://img.shields.io/badge/GitHub-OpenGemini-181717?style=for-the-badge&logo=github)](https://github.com/leonardodamascenodev/opengemini)
-  [![Stars](https://img.shields.io/github/stars/leonardodamascenodev/opengemini?style=for-the-badge&color=yellow)](https://github.com/leonardodamascenodev/opengemini/stargazers)
-  [![Forks](https://img.shields.io/github/forks/leonardodamascenodev/opengemini?style=for-the-badge&color=blue)](https://github.com/leonardodamascenodev/opengemini/network/members)
-
-  > *Sua aplicação/interface focada em explorar o potencial da API do Gemini.*
-
-  👉 **[Ver código fonte e documentação →](https://github.com/leonardodamascenodev/opengemini)**
-
-</div>
-
----
-
 ### 🛠️ Tecnologias & Ferramentas
 
 <div style="display: inline-block">
