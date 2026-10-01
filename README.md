@@ -23,7 +23,9 @@ Sou um apaixonado por tecnologia que acredita que o aprendizado nunca para. Atua
 
 ---
 
-### 57 Contribuições feitas esse ano!
+### 📊 Minhas Estatísticas
+
+![Estatísticas do Leo](https://github-readme-stats.vercel.app/api?username=leonardodamascenodev&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 ![GitHub Contribution Grid Snake](https://raw.githubusercontent.com/leonardodamascenodev/leonardodamascenodev/output/github-contribution-grid-snake-dark.svg)
 
 ---
