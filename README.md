@@ -39,4 +39,5 @@ Sou um apaixonado por tecnologia que acredita que o aprendizado nunca para. Atua
 </div>
 
 <!--START_SECTION:activity-->
+1. ℹ️ Assigned issue [#14](https://github.com/leonardodamascenodev/livraria-api-grupo6/issues/14) in [leonardodamascenodev/livraria-api-grupo6](https://github.com/leonardodamascenodev/livraria-api-grupo6)
 <!--END_SECTION:activity-->
