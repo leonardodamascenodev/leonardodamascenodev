@@ -13,12 +13,12 @@ Sou um apaixonado por tecnologia que acredita que o aprendizado nunca para. Atua
 ### 🛠️ Tecnologias & Ferramentas
 
 <div style="display: inline-block">
-  <img align="center" alt="JavaScript" height="30" width="40" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg](https://skillicons.dev/icons?i=javascript)">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="C++" height="35" width="35" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png">
-  <img align="center" alt="Python" height="35" width="35" src="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/3840px-Python-logo-notext.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail">
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://skillicons.dev/icons?i=javascript">
+  <img align="center" alt="React" height="30" width="40" src="https://skillicons.dev/icons?i=react">
+  <img align="center" alt="HTML5" height="30" width="40" src="https://skillicons.dev/icons?i=html">
+  <img align="center" alt="CSS3" height="30" width="40" src="https://skillicons.dev/icons?i=css">
+  <img align="center" alt="C++" height="35" width="35" src="https://skillicons.dev/icons?i=cpp">
+  <img align="center" alt="Python" height="35" width="35" src="https://skillicons.dev/icons?i=python">
 </div>
 
 ---
